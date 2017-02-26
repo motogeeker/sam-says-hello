@@ -1,0 +1,6 @@
+Write a program to calculate your homework average in this class. First input the number of assignments before
+inputting the homework values. Use a for loop to read each homework value. The program will display the class
+average using the following:
+homework percentage = (homework total / number of assignments) * 10
+Be sure your program will not crash if the user enters 0 for the number of assignments.
+Include outputs from the program using the following three runs:
